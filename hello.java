@@ -4,6 +4,6 @@ public class hello
 	{
 
 
-		System.out.println(" webhook trigger run successfully!!!!!!!!!!!! ");
+		System.out.println(" webhook trigger run successfully!!!!!! ");
 	}
 }
