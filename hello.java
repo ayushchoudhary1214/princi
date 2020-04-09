@@ -4,6 +4,6 @@ public class hello
 	{
 
 
-		System.out.println(" build automatically ")
+		System.out.println(" webhook trigger chl gyaaa yuhuuuuuuuuuuuuuuu ");
 	}
 }
